@@ -22,13 +22,13 @@ Passo 6: Criando tabela para Pacientes, atráves da biblioteca sqlite3
 
 Passo 7: Inserindo registros para a tabela de Pacientes apenas com registros de Pacientes acima de 50 anos
 
-Passo 8: Alterando tabela de pacientes, adicionando a coluna de Perfil
+Passo 8: Adicionando a coluna de Perfil na tabela de Pacientes
 
 Passo 9: Inserindo registros na coluna de Perfil
 
-Passo 10: Coluna de Perfil de Pacientes 'Normal' com BMI até 30 
+Passo 10: Inserindo na coluna de Perfil os Pacientes 'Normal' com BMI até 30 
 
-Passo 11: Coluna de Perfil de Pacientes 'Obeso' com BMI maior ou igual a 30 
+Passo 11: Inserindo na coluna de Perfil os Pacientes 'Obeso' com BMI maior ou igual a 30 
 
 Passo 12: Tabela de Pacientes atualizada para futuras análises de diabetes
 

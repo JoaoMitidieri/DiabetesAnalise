@@ -42,5 +42,5 @@ Criada tabela para diagnosticar se os pacientes desenvolveram ou não diabetes u
 ## Próximos Passos:
 Aceitando Sugestões
 
-# Disclaimer:
+## Disclaimer:
 Boa parte desse projeto foi realizado junto com Data Science Academy, no Curso de Análise de Dados com Python.

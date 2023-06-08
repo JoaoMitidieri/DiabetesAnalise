@@ -26,9 +26,9 @@ Passo 8: Alterando tabela de pacientes, adicionando a coluna de Perfil
 
 Passo 9: Inserindo registros na coluna de Perfil
 
-Passo 10: Coluna de Perfil de Pacientes 'Normal' com BMI até 30 e com idade menor que  50 anos
+Passo 10: Coluna de Perfil de Pacientes 'Normal' com BMI até 30 
 
-Passo 11: Coluna de Perfil de Pacientes 'Obeso' com BMI maior ou igual a 30 e com idade maior que 50 anos
+Passo 11: Coluna de Perfil de Pacientes 'Obeso' com BMI maior ou igual a 30 
 
 Passo 12: Tabela de Pacientes atualizada para futuras análises de diabetes
 
@@ -38,3 +38,9 @@ Passo 14: Salvando Tabela de Pacientes em CSV
 
 ## Conclusão:
 Criada tabela para diagnosticar se os pacientes desenvolveram ou não diabetes usando Sqlite3 e salvando em CSV.
+
+## Próximos Passos:
+Aceitando Sugestões
+
+# Disclaimer:
+Boa parte desse projeto foi realizado junto com Data Science Academy, no Curso de Análise de Dados com Python.

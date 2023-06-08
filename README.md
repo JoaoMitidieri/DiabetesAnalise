@@ -26,7 +26,7 @@ Passo 8: Alterando tabela de pacientes, adicionando a coluna de Perfil
 
 Passo 9: Inserindo registros na coluna de Perfil
 
-Passo 10: Coluna de Perfil de Pacientes 'Normal' com BMI até 30 e com idade maior que  50 anos
+Passo 10: Coluna de Perfil de Pacientes 'Normal' com BMI até 30 e com idade menor que  50 anos
 
 Passo 11: Coluna de Perfil de Pacientes 'Obeso' com BMI maior ou igual a 30 e com idade maior que 50 anos
 

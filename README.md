@@ -18,7 +18,7 @@ Passo 4: Consultando o número de linhas da tabela, através da biblioteca sqlit
 
 Passo 5: Consultando o número de registros de pacientes com idade maior ou igual a 50 anos
 
-Passo 6: Criando tabela para Pacientes
+Passo 6: Criando tabela para Pacientes, atráves da biblioteca sqlite3
 
 Passo 7: Inserindo registros para a tabela de Pacientes apenas com registros de Pacientes acima de 50 anos
 

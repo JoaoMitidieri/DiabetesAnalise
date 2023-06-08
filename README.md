@@ -1,4 +1,4 @@
-# Diagnóstico de diabetes por meio da análise de pacientes
+# Diagnóstico de Diabetes por meio da Análise de Pacientes
 Análise feita através da Biblioteca Pandas e Sqlite3 em Python
 
 ## Problema de Negócio :

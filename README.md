@@ -1,5 +1,5 @@
 # Diagnóstico de Diabetes por meio da Análise de Pacientes
-Análise feita através da Biblioteca Pandas e Sqlite3 em Python
+
 
 ## Problema de Negócio :
 Fonte dos dados: https://www.kaggle.com/uciml/pima-indians-diabetes-databaseData 
